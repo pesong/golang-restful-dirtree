@@ -7,6 +7,7 @@
 
 GET http://xxx.xxx.xxx.xxx:8090/files
 
- 
-
 以JSON方式返回宿主机用户目录的树形文件结构
+
+
+先执行 go get  获取所需的router 依赖
